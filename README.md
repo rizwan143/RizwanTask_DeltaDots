@@ -48,7 +48,8 @@ This project is a submission for a technical assessment as part of the iOS Devel
 
 ## 📸 Screenshots
 
-> (Add screenshots here if available)
+![IMG_3090](https://github.com/user-attachments/assets/204102a4-28a6-43ce-a7f8-b203f45ca55c)
+![IMG_3091](https://github.com/user-attachments/assets/d29a2ebb-5bee-42a3-b02c-f0eb0cd4d3be)
 
 ---
 
