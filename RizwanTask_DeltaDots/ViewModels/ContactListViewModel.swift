@@ -1,0 +1,1 @@
+// ViewModel for Contact List
