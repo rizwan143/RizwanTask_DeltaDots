@@ -72,7 +72,7 @@ This project is a submission for a technical assessment as part of the iOS Devel
 ## 🙌 Author
 
 **Muhammad Rizwan Sultan**  
-[LinkedIn](https://www.linkedin.com/in/your-link) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/rizwan-ios/) • [GitHub](https://github.com/rizwan143?tab=repositories)
 
 ---
 
